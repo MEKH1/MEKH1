@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Mohammed Al Khasawneh
-
 ## 💻Tech Stack
 
 - **Languages:**  C#, Python, JavaScript, C++, SQL
