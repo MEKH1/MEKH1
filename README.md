@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ## 💻Tech Stack
 
-- **Languages:**  C#, Python, JavaScript, C++, SQL
-- **Frameworks:** .NET, Django, MudBlazor, TensorFlow
+- **Languages:**  C#, Python, JavaScript, C++
+- **Frameworks:** .NET, Django, TensorFlow, Pytorch
 - **Databases:** SQLite, PostgreSQL, MySQL
-- **Web:** HTML, CSS, JavaScript, Blazor
-- **AI/ML:** Neural Networks, Transformers, NLP, Tokenization, TensorFlow
+- **Web:** HTML, CSS, JavaScript, MudBlazor
+- **AI/ML:** Neural Networks, Transformers, NLP, Tokenization, TensorFlow, PINNs
 - **Tools:** Git, GitHub, VS Code, Docker, Jupyter
 
 ## 🧠 AI Projects
-- Trained a **Transformer model** for NLP tasks (tokenization, attention mechanisms.)
+- Trained a **Transformer model** for NLP tasks (tokenization, attention mechanisms).
 - Used **TensorFlow** to build and optimize deep learning models
 
 ## 📊 Databases
