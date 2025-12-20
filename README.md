@@ -1,4 +1,4 @@
-## 👋 Hi, I’m MEKH1
+## Welcome to my Github, Its Mohammed Al Khasawneh
 
 Scientist and developer with interests across any field that I find challenging and engaging.  
 Backed by a solid academic foundation in **BSc. Mechatronics Engineering** and an **MSc. in Artificial Intelligence**, with strong experience in **algorithms, software development, database design, and machine learning**.
