@@ -1,14 +1,14 @@
-## Welcome to my Github, Its Mohammed Al Khasawneh
+# Welcome to my GitHub – I'm Mohammed Al Khasawneh
+Passionate about solving real-world problems
 
-Scientist and developer with interests across any field that I find challenging and engaging.  
-Backed by a solid academic foundation in **BSc. Mechatronics Engineering** and an **MSc. in Artificial Intelligence**, with strong experience in **algorithms, software development, database design, and machine learning**.
-I enjoy building efficient, end to end systems, from backend logic and data modeling to **AI driven solutions**, with a focus on performance, scalability, and real world impact.
-
+Academic background in:
+- **B.Sc. Mechatronics Engineering** 
+- **M.Sc. Artificial Intelligence** 
 ---
 
-## Areas of Interest
-
-- Algorithms & system design  
-- Machine learning (**ANNs, PINNs, NLP, GANs, RAG**)  
-- Backend and full stack development  
-- Database architecture & performance optimization  
+## Areas of Interest & Expertise
+- **Algorithms**
+- **Engineering** : Finite Element Methods (FEM)
+- **Machine Learning**: ANN, CNN, PINN, NLP
+- **Full Stack & Development** (C#, .NET, Blazor, JS, Python, c++)
+- **Database**
