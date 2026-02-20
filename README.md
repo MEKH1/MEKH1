@@ -2,8 +2,8 @@
 Passionate about solving real-world problems
 
 Academic background in:
-- **B.Sc. Mechatronics Engineering** 
 - **M.Sc. Artificial Intelligence** 
+- **B.Sc. Mechatronics Engineering** 
 ---
 
 ## Areas of Interest & Expertise
