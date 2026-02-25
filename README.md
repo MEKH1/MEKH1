@@ -1,4 +1,5 @@
-# Welcome to my GitHub – I'm Mohammed Al Khasawneh
+# Welcome to my GitHub – I am Mohammad Al Khasawneh
+My name is Mohammad (Mohd, as per official documents)
 Passionate about solving real-world problems
 
 Academic background in:
