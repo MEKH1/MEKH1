@@ -3,7 +3,7 @@ My name is Mohammad (Mohd, as per official documents)
 
 Passionate about solving real-world problems
 
- ## **"Before spending weeks training a neural network, spend a few minutes checking whether an off-the-shelf algorithm already solves the problem."**
+ ### **"Before spending weeks training a neural network, spend a few minutes checking whether an off-the-shelf algorithm already solves the problem."**
  
 Academic background in:
 - **M.Sc. Artificial Intelligence** 
