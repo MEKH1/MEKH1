@@ -13,6 +13,6 @@ Academic background in:
 ## Areas of Interest & Expertise
 - **Algorithms**
 - **Engineering** : Finite Element Methods (FEM)
-- **Machine Learning**: ANN, CNN, PINN, NLP
+- **Machine Learning**: ANN, CNN, PINN, LLMs, NLP
 - **Full Stack & Development** (C#, .NET, Blazor, JS, Python, c++)
 - **Database**
